@@ -7,3 +7,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ShedAiApp/ShedAi-Backend.git
+[submodule "myshed-old-3d"]
+	path = myshed-old-3d
+	url = https://github.com/ShedAiApp/ShedAi-Client.git
