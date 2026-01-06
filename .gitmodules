@@ -1,0 +1,9 @@
+[submodule "3d-builder"]
+	path = 3d-builder
+	url = https://github.com/ShedAiApp/ShedAi-3D.git
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = https://github.com/ShedAiApp/ShedAi-Admin.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ShedAiApp/ShedAi-Backend.git
